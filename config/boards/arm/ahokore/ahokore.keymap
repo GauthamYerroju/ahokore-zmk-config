@@ -69,7 +69,7 @@
             combo_vol_down {
                 timeout-ms = <30>;
                 key-positions = <14 24>;
-                bindings = <&kp K_VOL_DOWN>;
+                bindings = <&kp K_VOL_DN>;
                 layers = <0>;
             };
 
