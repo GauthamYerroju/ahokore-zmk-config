@@ -212,7 +212,7 @@
                 &none           &kp N1      &kp N2      &kp N3      &none           &kp PG_DN   &kp HOME    &kp K_APP   &kp END     &kp PG_DN
                                             &caps_word  &trans      &lt 2 TAB       &lt 2 RET   &trans      &kp DEL
             >;
-        }
+        };
 
         tri_layer {
             // -----------------------------------------------------------------------------------------
@@ -226,7 +226,7 @@
                 &kp PSCRN       &kp SLCK        &kp PAUSE_BREAK &kp INS         &none               &none       &kp F1      &kp F2      &kp F3      &kp F12
                                                 &caps_word      &trans          &lt 2 TAB           &lt 2 RET   &trans      &kp DEL
             >;
-        }
+        };
     };
 
 };
