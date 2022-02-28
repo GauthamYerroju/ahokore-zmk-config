@@ -194,7 +194,7 @@
             //             | CTL |     | TAB | SPC |     | DEL |
             bindings = <
                 &kp HASH        &kp DLLR    &kp LBRC    &kp RBRC    &kp GRAVE       &none       &kp PIPE    &kp EQUAL   &kp AMPS    &kp BSLH
-                &kp EXCL        &kp AT      &kp LBKT    &kp RBKT    &kp TILDE       &kp ASTR    &kp PLUS    &kp MINUS   &kp PRCNT   &kp SQT
+                &kp EXCL        &kp AT      &kp LBKT    &kp RBKT    &kp TILDE       &kp STAR    &kp PLUS    &kp MINUS   &kp PRCNT   &kp SQT
                 &kp PRCNT       &kp CARET   &kp LPAR    &kp RPAR    &kp PSCRN       &none       &none       &kp UNDER   &none       &kp BSLH
                                             &caps_word  &trans      &lt 2 TAB       &lt 2 RET   &trans      &kp DEL
             >;
