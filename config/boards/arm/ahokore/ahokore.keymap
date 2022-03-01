@@ -192,7 +192,7 @@
                 &kp Q           &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O           &kp P
                 &hm LSHFT A     &hm LALT S  &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &hm RALT L      &hm RSHFT SEMI
                 &hm LCTRL Z     &hm LGUI X  &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &hm RGUI DOT    &hm RCTRL FSLH
-                                            &caps_word  &th SPC 1   &hm LCTRL TAB   &th RET 1   &th BSPC 2  &kp DEL
+                                            &caps_word  &th 1 SPC   &hm LCTRL TAB   &th 1 RET   &th 2 BSPC  &kp DEL
             >;
         };
         
