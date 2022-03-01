@@ -192,7 +192,7 @@
                 &kp Q           &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O           &kp P
                 &hm LSHFT A     &hm LALT S  &kp D       &kp F       &kp G           &kp H       &kp J       &kp K       &hm RALT L      &hm RSHFT SEMI
                 &hm LCTRL Z     &hm LGUI X  &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &hm RGUI DOT    &hm RCTRL FSLH
-                                            &caps_word  &th 1 SPC   &hm LCTRL TAB   &th 1 RET   &th 2 BSPC  &kp DEL
+                                            &caps_word  &lt 1 SPC   &hm LCTRL TAB   &lt 1 RET   &lt 2 BSPC  &kp DEL
             >;
         };
         
@@ -206,7 +206,7 @@
                 &kp HASH        &kp DLLR    &kp LBRC    &kp RBRC    &kp GRAVE       &none       &kp PIPE    &kp EQUAL   &kp AMPS    &kp BSLH
                 &kp EXCL        &kp AT      &kp LBKT    &kp RBKT    &kp TILDE       &kp STAR    &kp PLUS    &kp MINUS   &kp PRCNT   &kp SQT
                 &kp PRCNT       &kp CARET   &kp LPAR    &kp RPAR    &kp PSCRN       &none       &none       &kp UNDER   &none       &kp BSLH
-                                            &caps_word  &trans      &lt 2 TAB       &lt 2 RET   &trans      &kp DEL
+                                            &caps_word  &trans      &hm LCTRL TAB   &lt 1 RET   &trans      &kp DEL
             >;
         };
 
@@ -220,7 +220,7 @@
                 &kp N1          &kp N2      &kp N3      &kp N4      &kp N5          &kp N6         &kp N7      &kp N8      &kp N9      &kp N0
                 &none           &none       &none       &none       &none           &kp C_VOL_UP   &kp LEFT    &kp UP      &kp RIGHT   &kp PG_UP
                 &kp PSCRN       &kp SLCK    &kp PAUSE_BREAK &kp INS &none           &kp C_VOL_DN   &kp HOME    &kp DOWN    &kp END     &kp PG_DN
-                                            &caps_word  &trans      &lt 2 TAB       &lt 2 RET   &trans      &kp DEL
+                                            &caps_word  &trans      &hm LCTRL TAB   &lt 1 RET      &trans      &kp DEL
             >;
         };
 
@@ -234,7 +234,7 @@
                 &kp F1          &kp F2          &kp F3          &kp F4          &kp F5              &kp F6          &kp F7      &kp F8      &kp F9      &kp F10
                 &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3    &bt BT_SEL 4        &bt BT_CLR      &bootloader &reset      &kp F11     &kp F12
                 &kp PSCRN       &kp SLCK        &kp PAUSE_BREAK &kp INS         &none               &none           &none       &none       &none       &none
-                                                &caps_word      &trans          &lt 2 TAB           &lt 2 RET       &trans      &kp DEL
+                                                &caps_word      &trans          &hm LCTRL TAB       &lt 1 RET       &trans      &kp DEL
             >;
         };
     };
